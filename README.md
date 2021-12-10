@@ -3,7 +3,9 @@ This is the repository to keep trace of the upgrade I've done to my first 3D Pri
 ***
 ## Build
 I recived the 3d printer on 6th October 2021 and I buld it stright away:
+
 ![printer built](./images/00-3DPrinter.jpeg)
+
 The build was a fast-farward build 'cause the kit was pretty easy to build.
 ***
 ## First build
