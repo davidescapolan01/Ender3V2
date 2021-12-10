@@ -35,7 +35,6 @@ In this way I was able to prevent the filament from folding while entering the e
 After afew little print and some testing I decided to print a [knife](https://www.thingiverse.com/thing:4376231) I've found on Thingiverse. Here's some photo of the result:
 
 ![Knrife](./images/07-firstPrint.jpeg)
-
 ![Knrife](./images/08-firstPrint.jpeg)
 
 After a few uses I found that the plate supposed to held the blade came loose, I think it's easy to fix, maybe a hole for a screw or something like that.
