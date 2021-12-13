@@ -1,5 +1,6 @@
 # Ender3V2
 This is the repository to keep trace of the upgrade I've done to my first 3D Printer, an Ender 3 V2.
+[Here](./Schema/) is the schema for the V4.2.2 board.
 I recived the 3d printer on 6th October 2021 and I buld it stright away:
 
 |![printer buit](./images/00-3DPrinter.jpeg)|
@@ -58,7 +59,9 @@ The nex few upgrade I made to the printer are a dry box to keep the filament dry
 The drybox is not finisced yet but I'll show you anyways how is it going:
 |![Spool Roller](./images/14-SpoolRollerDry.jpeg)|![Dry Box](./images/15-DryBox.jpeg)|
 |-|-|
+
 The installation of the harder springs and the bed insulation is pretty easy and the ammount of time I spend on waiting the bed while it heat up is considerable lower than before.
+
 |![Bed updated with harder prings and bed insulation](./images/13-Spring+Insulation.jpeg)|
 |-|
 ***
@@ -66,8 +69,8 @@ The installation of the harder springs and the bed insulation is pretty easy and
 ## New Printing Head
 I'm planning on changing the whol printing head, replacing the stock boden extruder with a diurect drive BMG clone, the Hot-end with a genuine E3D V6 and the stock blower fan 4010 with a 4020. For doing this I had to print a new fanduct witha a body where I can attach the Hot-end and the dd BMG. Watching around on thingiverse I found a big project called [Hero Me](https://www.thingiverse.com/thing:4460970) and after  some reserch I choose to print it. This part of the Project is stil work in progres so I have only soma pics of the printed parts:
 
-|![little part of the Hero Me](./images/13-Spring+Insulation.jpeg)|![body of the Hero Me](./images/13-Spring+Insulation.jpeg)|![fanduct for the Hero Me](./images/13-Spring+Insulation.jpeg)|
-|-|-|-|
+|![little part of the Hero Me](./images/16-HeroMe.jpeg)|![body of the Hero Me](./images/17-HeroMe.jpeg)|![fanduct for the Hero Me](./images/18-HeroMe.jpeg)|![Main structure hero me](./images/19-HeroMe.jpeg)
+|-|-|-|-|
 
 ***
 
