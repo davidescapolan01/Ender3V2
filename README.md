@@ -37,7 +37,7 @@ In this way I was able to prevent the filament from folding while entering the e
 ## The Spool Holder
 After afew little print and some testing I decided to print a [spool roller](http://www.thingiverse.com/thing:3209211) I've found on Thingiverse. Here's some photo of the result:
 
-|![Spool roller](./images/09-SpoolRollere.jpeg)|![Spool roller](./images/10-SpoolRollere.jpeg)|
+|![Spool roller](./images/09-SpoolRoller.jpeg)|![Spool roller](./images/10-SpoolRoller.jpeg)|
 |-|-|
 
 
