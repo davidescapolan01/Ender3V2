@@ -70,7 +70,9 @@ The installation of the harder springs and the bed insulation is pretty easy and
 I'm planning on changing the whol printing head, replacing the stock boden extruder with a diurect drive BMG clone, the Hot-end with a genuine E3D V6 and the stock blower fan 4010 with a 4020. For doing this I had to print a new fanduct witha a body where I can attach the Hot-end and the dd BMG. Watching around on thingiverse I found a big project called [Hero Me](https://www.thingiverse.com/thing:4460970) and after  some reserch I choose to print it.
 |![little part of the Hero Me](./images/16-HeroMe.jpeg)|![body of the Hero Me](./images/17-HeroMe.jpeg)|![fanduct for the Hero Me](./images/18-HeroMe.jpeg)|![Main structure hero me](./images/19-HeroMe.jpeg)
 |-|-|-|-|
+
 After more than one month I finally recived my V6 and started to mount it and after a few soldering it started working. I went also from a Bowde setup to a Direct Drive one with a BMG extruder.
+
 |![Hero Me Funduct mounted](./images/20-HeroMe.jpeg)|![Hero Me Funduct mounted with a little of cable management](./images/21-HeroMe.jpeg)|
 |-|-|
 
