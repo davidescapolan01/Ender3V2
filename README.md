@@ -57,8 +57,8 @@ The first project was to buy also an Orbiter so i found a [designe](https://www.
 ## Dry box, Spring & Bed insulation
 The nex few upgrade I made to the printer are a dry box to keep the filament dry, harder springs because the stock bed spring are pretty weak and a bed insulation because the bed was taking so long to heat up.
 The drybox is not finisced yet but I'll show you anyways how is it going:
-|![Spool Roller](./images/14-SpoolRollerDry.jpeg)|![Dry Box](./images/15-DryBox.jpeg)|
-|-|-|
+|![Spool Roller](./images/14-SpoolRollerDry.jpeg)|![Dry Box](./images/15-DryBox.jpeg)|![Dry Box with tubing](./images/22-DryBox.jpeg)
+|-|-|-|
 
 The installation of the harder springs and the bed insulation is pretty easy and the ammount of time I spend on waiting the bed while it heat up is considerable lower than before.
 
@@ -67,11 +67,18 @@ The installation of the harder springs and the bed insulation is pretty easy and
 ***
 
 ## New Printing Head
-I'm planning on changing the whol printing head, replacing the stock boden extruder with a diurect drive BMG clone, the Hot-end with a genuine E3D V6 and the stock blower fan 4010 with a 4020. For doing this I had to print a new fanduct witha a body where I can attach the Hot-end and the dd BMG. Watching around on thingiverse I found a big project called [Hero Me](https://www.thingiverse.com/thing:4460970) and after  some reserch I choose to print it. This part of the Project is stil work in progres so I have only soma pics of the printed parts:
-
+I'm planning on changing the whol printing head, replacing the stock boden extruder with a diurect drive BMG clone, the Hot-end with a genuine E3D V6 and the stock blower fan 4010 with a 4020. For doing this I had to print a new fanduct witha a body where I can attach the Hot-end and the dd BMG. Watching around on thingiverse I found a big project called [Hero Me](https://www.thingiverse.com/thing:4460970) and after  some reserch I choose to print it.
 |![little part of the Hero Me](./images/16-HeroMe.jpeg)|![body of the Hero Me](./images/17-HeroMe.jpeg)|![fanduct for the Hero Me](./images/18-HeroMe.jpeg)|![Main structure hero me](./images/19-HeroMe.jpeg)
 |-|-|-|-|
+After more than one month I finally recived my V6 and started to mount it and after a few soldering it started working. I went also from a Bowde setup to a Direct Drive one with a BMG extruder.
+|![Hero Me Funduct mounted](./images/20-HeroMe.jpeg)|![Hero Me Funduct mounted with a little of cable management](./images/21-HeroMe.jpeg)|
+|-|-|
 
+***
+## KLIPPER FIRMWARE
+For Christmas I recived a raspberry Pi Zero 2W so I decided to move to Klipper due to haveing a big amount of problem with Marlin.
+|![Raspberry Pi](./images/23-RaspberryPi.jpeg)|
+|-|
 ***
 
 ## More Coming Soon...
