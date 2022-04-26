@@ -50,8 +50,11 @@ It has been the first long print I've made on this machine (over 6 hours).
 One month later I decided to ad the auto bed levelling feature to my printer so I went on Banggood and bought  a Bl-touch clone, after about one week of shepping it was mounted on my printer.
 The first project was to buy also an Orbiter so i found a [designe](https://www.thingiverse.com/thing:4881107) thgat woud have suited both the bl-touch and the orbiter but afetr some dayse I decided to avoid the Orbiter so I snapped the mount to be able to mount it in an easy way.
 
-|![BL-Touch Mount](./images/11-BlTouch.jpeg)|![BL-Touch clone](./images/12-BlTouch.jpeg)|![BL-Touch mounted](./images/10-BlTouch.jpg)|
-|-|-|-|
+|![BL-Touch Mount](./images/11-BlTouch.jpeg)|![BL-Touch clone](./images/12-BlTouch.jpeg)|
+|-|-|
+
+|![BL-Touch mounted](./images/10-BlTouch.jpg)|
+|-|
 ***
 
 ## Dry box, Spring & Bed insulation
