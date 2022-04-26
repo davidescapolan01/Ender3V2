@@ -78,12 +78,12 @@ After more than one month I finally recived my V6 and started to mount it and af
 
 ***
 ## KLIPPER FIRMWARE
-For Christmas I recived a raspberry Pi Zero 2W so I decided to move to Klipper due to haveing a big amount of problem with Marlin.
+For Christmas I recived a raspberry Pi Zero 2W so I decided to move to Klipper after haveing a big amount of problem with Marlin.
 [Here](./firmware/printer_stock.cfg) is the printer.cfg standard for Ender 3 V2
 [Here](./firmware/printer.cfg) is the printer.cfg I'm running at the moment in my Ender 3 V2
 [Here](./firmware/klipper.bin) is the firmware I flashed with the last release of Klipper (updated on 25/01/2022)
-|![Raspberry Pi](./images/23-RaspberryPi.jpeg)|
-|-|
+|![Raspberry Pi](./images/23-RaspberryPi.jpeg)|![Raspberry Pi mounted](./images/24-RaspberryPi.jpeg)|![Klipper interface](./images/25-Klipper.jpeg)|
+|-|-|-|
 ***
 
 ## More Coming Soon...
