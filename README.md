@@ -50,11 +50,8 @@ It has been the first long print I've made on this machine (over 6 hours).
 One month later I decided to ad the auto bed levelling feature to my printer so I went on Banggood and bought  a Bl-touch clone, after about one week of shepping it was mounted on my printer.
 The first project was to buy also an Orbiter so i found a [designe](https://www.thingiverse.com/thing:4881107) thgat woud have suited both the bl-touch and the orbiter but afetr some dayse I decided to avoid the Orbiter so I snapped the mount to be able to mount it in an easy way.
 
-|![BL-Touch Mount](./images/11-BlTouch.jpeg)|![BL-Touch clone](./images/12-BlTouch.jpeg)|
-|-|-|
-
-|![BL-Touch mounted](./images/10-BlTouch.jpg)|
-|-|
+|![BL-Touch Mount](./images/11-BlTouch.jpeg)|![BL-Touch clone](./images/12-BlTouch.jpeg)|![BL-Touch mounted](./images/10-BlTouch.jpg)|
+|-|-|-|
 ***
 
 ## Dry box, Spring & Bed insulation
@@ -85,8 +82,11 @@ For Christmas I recived a raspberry Pi Zero 2W so I decided to move to Klipper a
 [Here](./firmware/printer_stock.cfg) is the printer.cfg standard for Ender 3 V2
 [Here](./firmware/printer.cfg) is the printer.cfg I'm running at the moment in my Ender 3 V2
 [Here](./firmware/klipper.bin) is the firmware I flashed with the last release of Klipper (updated on 25/01/2022)
-|![Raspberry Pi](./images/23-RaspberryPi.jpeg)|![Raspberry Pi mounted](./images/24-RaspberryPi.jpeg)|![Klipper interface](./images/25-Klipper.jpeg)|
-|-|-|-|
+|![Raspberry Pi](./images/23-RaspberryPi.jpeg)|![Raspberry Pi mounted](./images/24-RaspberryPi.jpeg)|
+|-|-|
+
+|![Klipper interface](./images/25-Klipper.jpeg)|
+|-|
 ***
 
 ## More Coming Soon...
